@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/christiansiki/space-tourism-website.git)
-- Live Site URL: [Add live site URL here](https://spacetourism-siki.netlify.app/)
+- Solution URL: (https://github.com/christiansiki/space-tourism-website.git)
+- Live Site URL: (https://spacetourism-siki.netlify.app/)
 
 ## My process
 
