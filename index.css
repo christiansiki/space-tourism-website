@@ -599,6 +599,7 @@ body {
 .grid-container p:not([class]){
   /* ch unit is roughly equivalent to width of "0" character */
   max-width: 50ch;
+  padding-bottom: 1rem;
 }
 
 .numbered-title {
